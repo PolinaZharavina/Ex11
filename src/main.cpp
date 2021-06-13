@@ -1,10 +1,8 @@
-// Copyright 2021
-#include <iostream>
-#include <string>
-
+// Copyright 2021 PollyllyZh
 #include "train.h"
 
 int main() {
-  return 0;
+    Train train1(20);
+    train1.print();
+    int q = train1.length();
 }
-
