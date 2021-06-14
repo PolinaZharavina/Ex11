@@ -2,8 +2,6 @@
 #include <gtest/gtest.h>
 #include <string>
 #include "train.h"
-#include <gtest/gtest.h>
-#include "train.h"
 
 
 TEST(SecondTest, test1) {
